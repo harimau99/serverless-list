@@ -1,6 +1,6 @@
 <img src="http://i.imgur.com/zq0LJAl.png" align="right" height=300>
 
-# :cloud: Awesome Serverless
+# :cloud:Serverless List
 
 A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 
